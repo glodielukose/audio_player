@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/audio_player/static/css/main.29309506.css",
+    "main.js": "/audio_player/static/js/main.19598775.js",
+    "static/media/riri_no_camera.mp3": "/audio_player/static/media/riri_no_camera.741b17420a73145290b6.mp3",
+    "static/media/r_i_peace.mp3": "/audio_player/static/media/r_i_peace.2c0c514f95a4a6ee955d.mp3",
+    "static/media/roro.mp3": "/audio_player/static/media/roro.26bf7b62580e11a76d9c.mp3",
+    "static/media/boss.mp3": "/audio_player/static/media/boss.9d3d701912e9539cb83e.mp3",
+    "static/media/dolce_vita.mp3": "/audio_player/static/media/dolce_vita.4ad2229fefcb9fa938d3.mp3",
+    "static/media/canada.mp3": "/audio_player/static/media/canada.259260c23ff9ea487b21.mp3",
+    "static/media/contvct.mp3": "/audio_player/static/media/contvct.1720e18868b01d8b5da2.mp3",
+    "static/media/si_j_savais.mp3": "/audio_player/static/media/si_j_savais.6eb864b96ca2a4746f51.mp3",
+    "static/media/rsko.jpeg": "/audio_player/static/media/rsko.257b66d521b3d02db3c6.jpeg",
+    "static/media/plike.jpeg": "/audio_player/static/media/plike.6cbe14fbd8fe92e89865.jpeg",
+    "static/media/gazo_kmt.jpeg": "/audio_player/static/media/gazo_kmt.82b3a3e873028bb4b2ca.jpeg",
+    "static/media/tiakola.jpeg": "/audio_player/static/media/tiakola.03b1c2aa80ddbe4cbc22.jpeg",
+    "static/media/bg-bois.jpeg": "/audio_player/static/media/bg-bois.61ca98672eff0fae4e66.jpeg",
+    "index.html": "/audio_player/index.html",
+    "main.29309506.css.map": "/audio_player/static/css/main.29309506.css.map",
+    "main.19598775.js.map": "/audio_player/static/js/main.19598775.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29309506.css",
+    "static/js/main.19598775.js"
+  ]
+}
